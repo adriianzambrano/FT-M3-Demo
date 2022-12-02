@@ -1,0 +1,21 @@
+{
+  "name": "ejemplolectura",
+  "version": "1.0.0",
+  "description": "",
+  "main": "archivo-01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon Ejemplo-2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "moments": "^0.0.2",
+    "react-router-dom": "^6.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
